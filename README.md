@@ -8,8 +8,9 @@
 * Se descargaron algunos iconos de bootstrasp y se les dio funcionalidad
 * Se uso libreria de Bootstraps para los elementos que se descargaron alli como carruseles cards responsives de imagenes botones.
 # Fotos de los sketch tanto de escritorio como de móvil
-![image](https://user-images.githubusercontent.com/110576497/195958588-aabbf0b8-cb08-4c26-b69f-9be80e269bcb.png)
-convert -size 2048x1536 $file -thumbnail 800x600 fotoblog/foto_$file
+![WhatsApp Image 2022-10-14 at 6 47 26 PM (2)](https://user-images.githubusercontent.com/110576497/195958907-48aa8420-7595-405d-89c5-fc52add9419c.jpeg)
+
+
 ![image](https://user-images.githubusercontent.com/110576497/195958600-ba272a97-07cd-444a-b03f-2cbfd637673b.png)
 ![image](https://user-images.githubusercontent.com/110576497/195958614-7e560eee-090a-4bf0-9628-0a0f7c18863e.png)
 
