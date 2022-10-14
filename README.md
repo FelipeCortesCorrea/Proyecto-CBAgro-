@@ -9,10 +9,10 @@
 * Se uso libreria de Bootstraps para los elementos que se descargaron alli como carruseles cards responsives de imagenes botones.
 # Fotos de los sketch tanto de escritorio como de móvil
 ![WhatsApp Image 2022-10-14 at 6 47 26 PM (2)](https://user-images.githubusercontent.com/110576497/195958907-48aa8420-7595-405d-89c5-fc52add9419c.jpeg)
+![WhatsApp Image 2022-10-14 at 6 47 26 PM (1)](https://user-images.githubusercontent.com/110576497/195958957-21e78809-ca10-40a0-b2a3-86a847e8b401.jpeg)
+![WhatsApp Image 2022-10-14 at 6 47 26 PM](https://user-images.githubusercontent.com/110576497/195958995-fd21d6e0-04e3-42ef-aefd-310c5678b2eb.jpeg)
 
 
-![image](https://user-images.githubusercontent.com/110576497/195958600-ba272a97-07cd-444a-b03f-2cbfd637673b.png)
-![image](https://user-images.githubusercontent.com/110576497/195958614-7e560eee-090a-4bf0-9628-0a0f7c18863e.png)
 
 
 
